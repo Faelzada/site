@@ -6,10 +6,12 @@
       <meta charset="UTF-8"
       <meta name="viewport"content="wid7h=divice-wid7h initial-scale 1.0"
       <title> Fael </title>
-      <link rel="short cut icon" href "imagem" type="  "
+      <link rel="shortcut icon" type="image/jpg" href="Corinthians.png">
     </head>
     <body>
-    
+      <h1> <mark> Programação (Matemática 2) </mark> </h1>
+      <h2> <mark style="background-color: #ff0000"> Exrcicio 3 Segundo Trimestre </mark></h2>
+      
 
 
     </body>
