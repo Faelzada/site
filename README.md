@@ -10,7 +10,7 @@
     </head>
     <body>
       <h1> <mark> Programação (Matemática 2) </mark> </h1>
-      <h2> <mark style="background-color: #ff0000"> Exrcicio 3 Segundo Trimestre </mark></h2>
+      <h2> <mark style="background-color: #ff0000"> Exercício 3 Segundo Trimestre </mark></h2>
       
 
 
